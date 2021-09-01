@@ -1,6 +1,8 @@
 # **Kodluyoruz Ilk Repo**
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![kodluyoruz](/kodluyoruz.png)
+
 ## **Installation**
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
@@ -25,4 +27,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## **License**
 [MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
 
-![kodluyoruz](/kodluyoruz.png)
+
